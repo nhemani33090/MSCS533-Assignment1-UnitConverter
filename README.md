@@ -42,7 +42,7 @@ flutter doctor
 
 1. Clone the repository:
    ```bash
-   https://github.com/nhemani33090/MSCS533-Assignment1-UnitConverter.git
+   git clone https://github.com/nhemani33090/MSCS533-Assignment1-UnitConverter.git
    cd MSCS533-Assignment1-UnitConverter
    ```
 
