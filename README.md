@@ -83,7 +83,7 @@ flutter doctor
 
 ## 📂 Project Structure
 ```
-conversion_app/
+MSCS533-Assignment1-UnitConverter/
 ├── android/        # Android project files
 ├── ios/            # iOS project files
 ├── lib/
