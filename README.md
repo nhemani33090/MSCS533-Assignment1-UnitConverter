@@ -1,16 +1,53 @@
-# conversion_app
+# Unit Converter (Flutter App)
 
-A new Flutter project.
+A cross-platform Flutter application that converts between **metric** and **imperial** units of length, weight, and temperature.
 
-## Getting Started
+## Features
+- Length: meters, kilometers, feet, miles
+- Weight: grams, kilograms, ounces, pounds
+- Temperature: Celsius ↔ Fahrenheit
+- Swap "From" and "To" units with one tap
+- Runs on Windows, Android, iOS, and Web
 
-This project is a starting point for a Flutter application.
+## Running the App
 
-A few resources to get you started if this is your first Flutter project:
+### 1. List available devices
+Check which devices are connected or available:
+```bash
+flutter devices
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Typical output:
+```
+Windows (desktop) • windows
+Chrome (web)      • chrome
+emulator-5554     • Android Emulator
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2. Run on Windows (desktop)
+```bash
+flutter run -d windows
+```
+
+### 3. Run on Android (emulator or real phone)
+- Start an Android emulator from Android Studio **or** plug in a phone with USB debugging enabled.
+- Then run:
+```bash
+flutter run -d emulator-5554
+```
+(Replace `emulator-5554` with the device ID shown in `flutter devices`.)
+
+### 4. Run on iOS (requires macOS + Xcode)
+On a Mac with Xcode installed:
+```bash
+flutter run -d ios
+```
+
+## Screenshots
+![Android App Screenshot](AndroidScreenshot.png)
+![Web App Screenshot](WebScreenshot.png)
+![iOS App Screenshot](iOSScreenshot.png)
+
+## Repository
+Source code available here:  
+[GitHub Repository](https://github.com/nhemani33090/MSCS533-Assignment1-UnitConverter.git)
