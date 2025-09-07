@@ -44,10 +44,10 @@ flutter run -d ios
 ```
 
 ## Screenshots
+### Android App
 ![Android App Screenshot](AndroidScreenshot.png)
+### Web App
 ![Web App Screenshot](WebScreenshot.png)
+### iOS App
 ![iOS App Screenshot](iOSScreenshot.png)
 
-## Repository
-Source code available here:  
-[GitHub Repository](https://github.com/nhemani33090/MSCS533-Assignment1-UnitConverter.git)
