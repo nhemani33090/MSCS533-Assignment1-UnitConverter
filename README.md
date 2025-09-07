@@ -98,13 +98,13 @@ conversion_app/
 ## 📷 Screenshots
 
 ### Web (Chrome)
-![Web Screenshot](Screenshots/Web.png)
+![Web Screenshot](screenshots/Web.png)
 
 ### Android (Emulator)
-![Android Screenshot](Screenshots/Android.png)
+![Android Screenshot](screenshots/Android.png)
 
 ### iOS (Simulator)
-![iOS Screenshot](Screenshots/iOS.png)
+![iOS Screenshot](screenshots/iOS.png)
 
 ---
 
